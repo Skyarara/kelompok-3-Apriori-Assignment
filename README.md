@@ -1,4 +1,4 @@
-# kelompok-3-Apriori-Assignment
+# kelompok-3 Apriori-Assignment
 
 Anggota Kelompok
 
@@ -9,5 +9,3 @@ Anggota Kelompok
 2440009383 - David Sie Wettleson <br />
 2440040412 - M. Rifqi Lutfi <br />
 
-
-Tugas PreProcessing
